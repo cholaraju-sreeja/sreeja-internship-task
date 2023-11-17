@@ -38,6 +38,6 @@ def chapter_one():
 
 # You can continue to add more chapters, choices, and story elements
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     introduction()
     chapter_one()
